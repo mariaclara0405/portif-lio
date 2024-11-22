@@ -32,3 +32,16 @@ img {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     margin-bottom: 15px;
 }
+#contato {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+#contato a {
+    color: #009688;
+    text-decoration: none;
+}
+#contato a:hover {
+    text-decoration: underline;
+}
